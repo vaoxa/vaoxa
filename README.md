@@ -9,7 +9,7 @@ Have used:
 + Python (multiple courses and personal projects)
 + Java (Application Development course)
 + C (Operating Systems, Computer systems and networks courses)
-\
+<!--hello there-->
 Learning:
 + c#
 + Go
