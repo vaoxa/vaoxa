@@ -6,8 +6,10 @@ Concentration: Networking and Security \
 Love to use Python \
 Interested in Concurrency, DB, etc \
 Have used:
-+ Python
++ Python (multiple courses and personal projects)
++ Java (Application Development course)
++ C (Operating Systems, Computer systems and networks courses)
+Learning:
++ c#
 + Go
-+ Java
-+ C
-+ C++
++ kotlin
