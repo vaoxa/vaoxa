@@ -8,7 +8,8 @@ Interested in Concurrency, DB, etc \
 Have used:
 + Python (multiple courses and personal projects)
 + Java (Application Development course)
-+ C (Operating Systems, Computer systems and networks courses) \\
++ C (Operating Systems, Computer systems and networks courses)
+\
 Learning:
 + c#
 + Go
