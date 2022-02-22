@@ -10,7 +10,8 @@ Have used:
 + Java (Application Development course)
 + C (Operating Systems, Computer systems and networks courses)
 <!--hello there-->
-Learning:
-+ c#
-+ Go
+Learning/wanting to learn:
++ C# / F#
++ Elixir
 + kotlin
++ D lang
