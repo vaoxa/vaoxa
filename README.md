@@ -14,4 +14,5 @@ Learning/wanting to learn:
 + C# / F#
 + Elixir
 + kotlin
-+ D lang
++ Scala
++ Clojure
