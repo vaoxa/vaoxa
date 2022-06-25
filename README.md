@@ -11,8 +11,6 @@ Have used:
 + C (Operating Systems, Computer systems and networks courses)
 <!--hello there-->
 Learning/wanting to learn:
-+ C# / F#
 + Elixir
 + kotlin
 + Scala
-+ Clojure
