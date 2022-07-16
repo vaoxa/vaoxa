@@ -1,7 +1,7 @@
 # Hello stranger, I'm Julian
 
 I have no idea what I am doing, but I am here to learn as I go \
-Major: Computer Science - Spring 2022 \
+B.S Computer Science - Networking and Computer Security\
 Concentration: Networking and Security \
 Love to use Python \
 Interested in Concurrency, DB, etc \
