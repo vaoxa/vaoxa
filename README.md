@@ -11,5 +11,6 @@ Have used:
 <!--hello there-->
 Learning/wanting to learn:
 + Elixir
-+ kotlin
++ Rust
 + Scala
++ Kotlin
